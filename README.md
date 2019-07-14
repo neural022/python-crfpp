@@ -9,10 +9,13 @@
         * in Windows package [/CRF++-0.58/sdk/](/CRF++-0.58/sdk/)
             * `crfpp.h`
             *  rename `crfpp.lib` by `libcrfpp.lib`
+
         * in Windows package [/CRF++-0.58/](/CRF++-0.58/)
             * `libcrfpp.dll`
+
         *  in [/pthreads-w32-2-9-1-release/Pre-built.2/lib/x64/](/pthreads-w32-2-9-1-release/Pre-built.2/lib/x64/)
             * rename `pthread.lib` by `pthreadVC2.lib`
+
         * in Linux package [https://github.com/taku910/crfpp/tree/master/python](https://github.com/taku910/crfpp/tree/master/python)
             * get python folder
 * **Setting up the environment**
