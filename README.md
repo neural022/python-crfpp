@@ -22,10 +22,10 @@
     
     Move the prepared files to the [python folder in Linux package](/crfpp/python/) ( besides `libcrfpp.dll` )
     
-    run in cmd
+    **run in cmd**
         
         python setup.py build
-    run in cmd
+    **run in cmd**
     
         python setup.py install
     Move `libcrfpp.dll` to **your Python library** (/Python3.7/Lib/site-packages/)
