@@ -37,4 +37,5 @@
         import CRFPP
     
     ![](import_CRFPP.jpg)
-    Move `libcrfpp.dll` to **your Python library** (/Python3.7/Lib/site-packages/)
+    
+    **finally:** Move `libcrfpp.dll` to **your Python library** (/Python3.7/Lib/site-packages/)
