@@ -21,6 +21,7 @@
 * **Setting up the environment**
     
     Move the prepared files to the [python folder in Linux package](/crfpp/python/) ( besides `libcrfpp.dll` )
+    
     run in cmd
         
         python setup.py build
