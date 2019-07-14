@@ -25,16 +25,16 @@
         
         python setup.py build
         
-    ![][setup_build.jpg]    
+    ![](setup_build.jpg)    
     **run in cmd**
     
         python setup.py install
     
-    ![][setup_install.jpg]  
+    ![](setup_install.jpg)  
 
 * **Use CRF++ in Python**
         
         import CRFPP
     
-    ![][import_CRFPP.jpg]
+    ![](import_CRFPP.jpg)
     Move `libcrfpp.dll` to **your Python library** (/Python3.7/Lib/site-packages/)
