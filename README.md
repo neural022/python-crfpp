@@ -24,11 +24,17 @@
     **run in cmd**
         
         python setup.py build
+        
+    ![][setup_build.jpg]    
     **run in cmd**
     
         python setup.py install
-    Move `libcrfpp.dll` to **your Python library** (/Python3.7/Lib/site-packages/)
+    
+    ![][setup_install.jpg]  
 
 * **Use CRF++ in Python**
         
         import CRFPP
+    
+    ![][import_CRFPP.jpg]
+    Move `libcrfpp.dll` to **your Python library** (/Python3.7/Lib/site-packages/)
