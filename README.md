@@ -4,7 +4,7 @@
     * Use `Python 3.7` **Must use** `32-bit` (`64-bit` can not be used, the reason is unknown. )
     * `Visual Studio 2015` IDE compile
     * Download CRF++ Package for Windows ( CRF++-0.58.zip )  and Linux ( CRF++-0.58.tar.gz or crfpp )
-    **source in https://taku910.github.io/crfpp/**
+    * **source in https://taku910.github.io/crfpp/**
         * in Windows package [/CRF++-0.58/sdk/](/CRF++-0.58/sdk/)
             * `crfpp.h`
             *  rename `crfpp.lib` by `libcrfpp.lib`
