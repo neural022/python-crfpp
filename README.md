@@ -1,7 +1,7 @@
 # python-crfpp
 ### CRF++ In Python Interface ( For Windows )
 * **Prepare**
-    * Use `Python 3.7` **Must use** `32-bit` (`64-bit` can not be used, the reason is unknown. )
+    * Use `Python 3.7` **Must use** `32-bit ( x86 )` (`64-bit ( x64 )` can not be used, the reason is unknown. )
     * `Visual Studio 2015` IDE compile
     * Download CRF++ Package for Windows ( CRF++-0.58.zip )  and Linux ( CRF++-0.58.tar.gz or crfpp )
     * **source in https://taku910.github.io/crfpp/**
