@@ -17,7 +17,7 @@
 
         * in Linux package [https://github.com/taku910/crfpp/tree/master/python](https://github.com/taku910/crfpp/tree/master/python)
             * get python folder
-* **Setting up the environment**
+* **Environment Setting**
     
     Move the prepared files to the [python folder in Linux package](/crfpp/python/) ( besides `libcrfpp.dll` )
     
